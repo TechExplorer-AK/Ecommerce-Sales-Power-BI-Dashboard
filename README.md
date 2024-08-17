@@ -1,4 +1,4 @@
-# Ecommerce-Sales-Power-BI--Dashboard
+# Ecommerce-Sales-Power-BI-Dashboard
 ## Exploratory Data Analysis : Store Dataset
 ### This Power BI dashboard provides an Exploratory Data Analysis of Store dataset through several key insights:
 * Top 5 States by Sales: Highlights the highest-performing states in terms of revenue. Identifies key geographical areas driving the most sales.
@@ -22,7 +22,7 @@
 * Count of Orders: Shows the total number of transactions or orders. Indicates the level of customer activity and order frequency.
 
 ## Dashboard
-![Alt Text]()
+![Alt Text](https://github.com/TechExplorer-AK/Ecommerce-Sales-Power-BI-Dashboard/blob/main/Screenshot.png?raw=true)
 
 
 
