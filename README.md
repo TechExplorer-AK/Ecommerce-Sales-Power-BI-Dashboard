@@ -5,7 +5,7 @@
 
 * Quantity Distribution by Product Category: Shows the proportion of sold quantities across different product categories. Helps understand which categories are the most popular.
 
-* Sales by Month: Provides a temporal view of sales performance. Reveals trends and seasonal patterns in monthly sales figures.
+* Sales by Month: Provides a temporal view of sales performance. Reveals trends and seasonal patterns in monthly sales figures.  
 
 * Sales Distribution by Region: Breaks down sales performance across various regions. Assesses regional market strength and distribution efficiency.
 
